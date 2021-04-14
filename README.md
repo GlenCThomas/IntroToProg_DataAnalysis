@@ -3,7 +3,8 @@
 These Jupyter notebooks provide a self-study introduction to computing
 with Python. They have been developed for the computing course in Part
 IA (Michaelmas Term) of the Engineering Tripos at University of
-Cambridge. This is a first computing course for undergraduate students.
+Cambridge. This is a first computing course for undergraduate students, 
+and has been modified for use by Lancing College by GC Thomas.
 
 The notebooks can be freely used, shared and modified. See the copyright
 and license notice below.
